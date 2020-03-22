@@ -1,5 +1,5 @@
 # Package iso8601
-    `import "github.com/dacut/go-iso8601"`
+    import "github.com/dacut/go-iso8601"
 
 Proper ISO 8601 (**not RFC 3339**) time parsing and formatting for Golang.
 
